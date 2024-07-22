@@ -1,2 +1,3 @@
-# callsoc pong game
+# classic-pong
+
 just for fun
