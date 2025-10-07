@@ -20,7 +20,7 @@ pip install pygame
 ## Run
 
 ```bash
-python dr_mario_pong.py
+python pong.py
 ```
 
 ## Controls
