@@ -1,4 +1,4 @@
-# Dr. Mario Pong
+# Dr. Mario Pong (PyGames)
 
 A retro mashup of Pong and Dr. Mario! Bounce the ball between two paddles to destroy color-matched viruses.
 
