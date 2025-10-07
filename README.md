@@ -30,3 +30,6 @@ python dr_mario_pong.py
 | P2 (Blue) | ↑ | ↓ |
 
 Score +10 for each color-matched virus destroyed!
+
+### Schreenshot
+![Dr Mario Pong](pong.jpg)
